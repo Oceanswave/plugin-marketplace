@@ -28,4 +28,6 @@ Grok.com supports adding the same HTTPS URL under Connectors â†’ New Connector â
 
 ## Release status
 
-This is a submission preparation copy. The endpoint must pass remote verification before submission. The newly authored files in this plugin directory are distributed under the MIT license in [LICENSE](LICENSE), with owner approval. This license covers only `.mcp.json`, `.grok-plugin/plugin.json`, this README, and LICENSE. EV Backroads application/server code, trail/source data, images, private content, and pre-existing xAI marketplace files are excluded; their rights are unchanged.
+The hosted service was deployed and verified on October 14, 2026. Remote checks using the official MCP SDK passed health, discovery, and all four tools, including refusal of unverified navigation and the unconfigured enrichment response. The official Grok Build 1.0.52 client also completed its HTTP handshake (protocol `2026-07-28`) and discovered all four tools. No Grok.com account connection is required for these checks.
+
+The newly authored files in this plugin directory are distributed under the MIT license in [LICENSE](LICENSE), with owner approval. This license covers only `.mcp.json`, `.grok-plugin/plugin.json`, this README, and LICENSE. EV Backroads application/server code, trail/source data, images, private content, and pre-existing xAI marketplace files are excluded; their rights are unchanged.
